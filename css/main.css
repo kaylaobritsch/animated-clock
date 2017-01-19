@@ -32,12 +32,12 @@ html {
 
 .hand-hour {
   transform-origin: center bottom;
-  animation: time 6s linear infinite;
+  animation: time 6s linear 12;
 }
 
 .hand-minute {
   transform-origin: center bottom;
-  animation: time 1s linear infinite;
+  animation: time 1s linear 12;
 }
 
 @keyframes time {
