@@ -41,6 +41,7 @@ html {
 }
 
 @keyframes time {
+
   from {
     transform: rotate(0deg);
   }
