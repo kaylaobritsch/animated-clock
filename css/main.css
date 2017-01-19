@@ -37,7 +37,7 @@ html {
 
 .hand-minute {
   transform-origin: center bottom;
-  animation: time 1s linear 12;
+  animation: time .5s linear 12;
 }
 
 @keyframes time {
